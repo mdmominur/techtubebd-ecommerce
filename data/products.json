@@ -1,0 +1,51 @@
+[
+    {
+      "id": "1",
+      "name": "Smartwatch",
+      "price": "৳3,499",
+      "image": "/images/smartwatch.png"
+    },
+    {
+      "id": "2",
+      "name": "Genuine Camera",
+      "price": "৳25,000",
+      "image": "/images/camera.png"
+    },
+    {
+      "id": "3",
+      "name": "Wireless Headphone",
+      "price": "৳4,999",
+      "image": "/images/headphone.png"
+    },
+      {
+      "id": "1",
+      "name": "Smartwatch",
+      "price": "৳3,499",
+      "image": "/images/smartwatch.png"
+    },
+    {
+      "id": "2",
+      "name": "Genuine Camera",
+      "price": "৳25,000",
+      "image": "/images/camera.png"
+    },
+    {
+      "id": "3",
+      "name": "Wireless Headphone",
+      "price": "৳4,999",
+      "image": "/images/headphone.png"
+    },
+      {
+      "id": "1",
+      "name": "Smartwatch",
+      "price": "৳3,499",
+      "image": "/images/smartwatch.png"
+    },
+    {
+      "id": "2",
+      "name": "Genuine Camera",
+      "price": "৳25,000",
+      "image": "/images/camera.png"
+    }
+  ]
+  

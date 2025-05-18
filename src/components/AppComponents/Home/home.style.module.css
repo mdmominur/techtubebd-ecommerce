@@ -1,0 +1,181 @@
+
+  /* Hero Section */
+  .hero {
+    background: linear-gradient(180deg, #FFFFFF 0%,  #f2f8fd 100%);
+    padding: 150px 20px 0;
+  }
+
+  .hero .hero-inner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 32px;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  
+  .shop-button {
+    display: inline-block;
+    background-color: #2C75A7;
+    color: #fff;
+    padding: 12px 24px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background 0.3s ease;
+  }
+  
+  .shop-button:hover {
+    background-color: #005dc1;
+  }
+  
+  .hero-image {
+    width: 300px;
+    height: auto;
+  }
+  
+  /* Featured Section */
+  .featured {
+    padding: 40px 20px;
+  }
+  
+  .featured h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .product-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+  }
+  
+  .product-card {
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    padding: 20px;
+    text-align: center;
+    width: 250px;
+  }
+  
+  .product-card img {
+    width: 100px;
+    margin-bottom: 15px;
+  }
+  
+  .product-card h3 {
+    font-size: 1.2rem;
+    margin-bottom: 5px;
+  }
+  
+  .product-card p {
+    color: #444;
+    margin-bottom: 15px;
+    font-weight: 500;
+  }
+  
+  .product-card button {
+    background-color: #2C75A7;
+    color: #fff;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    transition: background 0.3s ease;
+  }
+  
+  .product-card button:hover {
+    background-color: #005dc1;
+  }
+  
+  /* Why Choose Us */
+  .why-choose {
+    padding: 40px 20px;
+  }
+  
+  .why-choose h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  .features {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  .feature-item {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 15px;
+  }
+  
+  .feature-item .icon {
+    margin-bottom: 10px;
+    background-color: #E3EAF3;
+    color: #2C75A7;
+    display: flex;
+    padding: 10px;
+    border-radius: 6px;
+  }
+  
+  .feature-item p {
+    font-size: 1.3rem;
+    font-weight: 500;
+  }
+  
+  /* Blog Section */
+  .latest-blog {
+    padding: 40px 20px;
+  }
+  
+  .latest-blog h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .blog-list {
+    display: flex;
+    gap: 30px;
+    flex-wrap: wrap;
+  }
+  
+  .blog-post {
+    width: 250px;
+    background: #fff;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    overflow: hidden;
+  }
+  
+  .blog-post img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .blog-post h3 {
+    padding: 15px;
+    font-size: 1.1rem;
+    font-weight: 600;
+  }
+  
+  .blog-post p {
+    padding: 0 15px 15px;
+    color: #777;
+    font-size: 0.9rem;
+  }
+
+
+
+  
+  
