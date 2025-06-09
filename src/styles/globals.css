@@ -19,6 +19,11 @@ body {
   padding: 20px;
 }
 
+.default-background{
+    background-color: #ffffff3b;
+    backdrop-filter: blur(8px);
+}
+
 
   /* Navigation */
   nav {
@@ -58,4 +63,10 @@ body {
   
   .footer nav a:hover {
     color: #fff;
+  }
+
+  @media only screen and (max-width: 1200px){
+    .container {
+      
+    }
   }

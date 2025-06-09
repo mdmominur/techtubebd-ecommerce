@@ -176,6 +176,42 @@
   }
 
 
+@media only screen and (max-width: 1200px){
+    .latest-blog h2, .featured h2, .why-choose h2{
+        text-align: center;
+      }
+
+    .product-list, .features, .blog-list {
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+}
+@media only screen and (max-width: 768px){
+  .hero .hero-inner{
+    flex-direction: column;
+    text-align: center;
+  }
+
+    .hero h1{
+      font-size: 1.5rem;
+    }
+
+    .shop-button{
+      padding: 6px 12px;
+    }
+
+  .hero-image{
+    width: 200px;
+  }
+}
+
+
+@media only screen and (max-width:  650px){
+  .features{
+    grid-template-columns: 1fr;
+  }
+}
+
 
   
   
