@@ -79,20 +79,6 @@
     font-weight: 500;
   }
   
-  .product-card button {
-    background-color: #2C75A7;
-    color: #fff;
-    border: none;
-    padding: 10px 16px;
-    border-radius: 6px;
-    cursor: pointer;
-    font-weight: 600;
-    transition: background 0.3s ease;
-  }
-  
-  .product-card button:hover {
-    background-color: #005dc1;
-  }
   
   /* Why Choose Us */
   .why-choose {
